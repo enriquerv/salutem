@@ -12,23 +12,29 @@
 <section class="container-fluid">
 	<div class="row mt-3">
 		<div class="col-12">
-			<img src="{{ env('APP_URL') }}/assets/images/salutem/img_1_bannerindex.png"  width="100%">
+			<img src="{{ env('APP_URL') }}/assets/images/salutem/img_1_bannerindex_2.png"  width="100%">
 		</div>
 		{{-- MINI WIDGET PARA DIVISIÓN HR E IMAGENES --}}
 		<div class="col-md-4 mt-5 lines-left-right" id="section2">
 			<hr class="hr_line mr-0">
 		</div>
 		<div class="col-md-4 mt-5 text-center lines-mid">
-			<h1>¿Quiénes somos?</h1>
+			<h2>Presentación del programa educativo.</h2>
 		</div>
 		<div class="col-md-4 mt-5 lines-left-right">
 			<hr class="hr_line ml-0">
 		</div>
 
 		<div class="col-md-8 offset-md-2 mt-4">
-			<h3 class="text-center" data-aos="zoom-in" data-aos-duration="1000">
-				Orientado a los trabajadores de salud en el área de enfermería auxiliar que cuenten con diploma de auxiliar, dos años de experiencia laboral, que esten activos en el área de enfermería y que cuenten con secundaria.
-			</h3>
+			<p class="text-justify p-pres mt-4 mb-4" data-aos="zoom-in" data-aos-duration="1000">
+				La Nivelación de Licenciatura en Enfermería, es una etapa de estudio encaminada a lograr la formación profesional en el área de la Salud  ; para esto se requiere una gran responsabilidad personal y asumir un compromiso social, en el que su papel de alumno tradicional cambia al de un estudiante que interactúa con los diversos ambientes de aprendizaje, vanguardistas en tecnología, y que le permite continuar con su estilo de vida diario sin interrumpir su trabajo o actividades personales a la par de su formación universitaria.
+			</p>
+			<p class="text-justify p-pres mt-4 mb-4" data-aos="zoom-in" data-aos-duration="1000">
+				Este programa surgió como estrategia para cumplir las expectativas de superación de quienes, por edad, falta de tiempo, situación económica o geográfica, no continuaron con sus estudios de Licenciatura en Enfermería quedándose con el grado de auxiliar, técnico o desertaron en su formación superior.
+			</p>
+			<p class="text-justify p-pres mt-4 mb-4" data-aos="zoom-in" data-aos-duration="1000">
+				Nos congratulamos que hayan seleccionado a esta casa de estudios para continuar con su formación profesional.
+			</p>
 		</div>
 
 
@@ -46,7 +52,7 @@
 			<h1 class="text-center mb-3">Visión</h1>
 			<img src="{{ env('APP_URL') }}/assets/images/salutem/img_vision.png"  width="70%">
 			<p class="px-5 mt-3 text-justify" data-aos="zoom-in" data-aos-duration="1000">
-				Que nuestros alumnos adquieran y desarrollen las habilidades intelectuales que les permitan aprender permanentemente y con independencia, así como actuar con eficacia e iniciativa en las cuestiones prácticas de la vida cotidiana. Que se formen ética mente mediante el conocimiento de sus derechos, deberes y la práctica de valores en su vida personal, en sus relaciones con los demás.
+				Que nuestros alumnos adquieran y desarrollen las habilidades intelectuales que les permitan aprender permanentemente y con independencia, así como actuar con eficacia e iniciativa en las cuestiones prácticas de la vida cotidiana. Que se formen éticamente mediante el conocimiento de sus derechos, deberes y la práctica de valores en su vida personal, en sus relaciones con los demás.
 			</p>
 		</div>
 
@@ -91,22 +97,22 @@
 	<div class="container mt-5">
 		<div class="row">
 			<div class="col-md-6 text-center">
-				<h2 class="mb-3">Perfil de Ingreso</h2>
+				<h2 class="mb-3">Perfil de Ingreso.</h2>
 				<p class="mb-3 text-justify">
 					El estudio de esta licenciatura requiere de: 
 					<ul class="text-left">
-						<li>Estudios a nivel técnico de enfermería </li>
-						<li>Auxiliares en enfermería con bachillerato </li>
+						<li>Estudios a nivel técnico de enfermería.</li>
+						<li>Auxiliares en enfermería con bachillerato.</li>
 						<li>Cinco cursos con valor curricular (expedidos por una institución de salud o educativa en el área de enfermería, con un máximo de tres años de antigüedad.</li>
 						<li>Constancia laboral (mínimo dos años de experiencia y que se encuentren laborando en el área actualmente).</li>
 						<li>La experiencia laboral no deberá ser de agencias o cuidadores.</li>
 						<li>Interés por la solución de los problemas sociales del país.</li>
 						<li>Disponibilidad para el trabajo en equipo.</li>
-						<li>Sentido de responsabilidad </li>
+						<li>Sentido de responsabilidad.</li>
 						<li>Capacidad de análisis, observación y reflexión.</li>
 						<li>Buena salud física y mental.</li>
 						<li>Habilidad y destreza manual.</li>
-						<li>Hábitos de estudio </li>
+						<li>Hábitos de estudio.</li>
 						<li>Vocación de servicio.</li>
 						<li>Tolerancia y disponibilidad para trabajar en situaciones críticas de emergencia.</li>
 					</ul>
@@ -116,9 +122,9 @@
 
 			<div class="col-md-6 text-center">
 				<img src="{{ env('APP_URL') }}/assets/images/salutem/img_perfilingreso.png"  width="70%">
-				<h2 class="mt-4 mb-3">Perfil de Egreso</h2>
+				<h2 class="mt-4 mb-3">Perfil de Egreso.</h2>
 				<p class="mb-3 text-justify">
-					El licenciado en enfermería de Salutem es formado como profesional de la salud con fundamentos teóricos, metodológicos, instrumentales aplicados en una plática sustentada en conocimientos de las ciencias biomédicas, sociales y de la conducta, con bases ético-legales que le permitan proporcionar atención de enfermería con un enfoque holístico tendiente a la solución de problemas de salud del individuo, familia y comunidad, durante las etapas de vida, que fomenten el autocuidado y su adaptación funcional al proceso de salud-enfermedad.
+					El Licenciado en Enfermería de Salutem es formado como profesional de la salud con fundamentos teóricos, metodológicos, instrumentales aplicados en una plática sustentada en conocimientos de las ciencias biomédicas, sociales y de la conducta, con bases ético-legales que le permitan proporcionar atención de enfermería con un enfoque holístico tendiente a la solución de problemas de salud del individuo, familia y comunidad, durante las etapas de vida, que fomenten el autocuidado y su adaptación funcional al proceso de salud-enfermedad.
 					<br><br>
 					En comparación con el equipo multidisciplinario realiza funciones asistenciales, decentes, administrativas y de investigación en instituciones del sector salud, educativas, de protección social e industriales, así como en la práctica libre de la profesión.
 				</p>
@@ -192,8 +198,8 @@
         </div>
 
 
-        <div class="col-12 mt-5 mb-5">
-			<img src="https://via.placeholder.com/1920x350?text=Slogan"  width="100%">
+        <div class="col-12 mt-5">
+			<img src="{{ env('APP_URL') }}/assets/images/salutem/img_footer.png"  width="100%">
 		</div>
 
 	</div>
@@ -310,6 +316,10 @@
 	}
 	.img-contact{
 		width: 80px;
+	}
+
+	.p-pres{
+		font-size: 18px;
 	}
 </style>
 
